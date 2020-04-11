@@ -5,8 +5,8 @@
 <h2 align="center">Rocketshoes</h2>
 
 
-<img src=".github/tela1.png" width="300" />
-<img src=".github/tela2.png" width="300" />
+<img src=".github/tela1.png" />
+<img src=".github/tela2.png" />
 
 ## 🔧 Tecnologias
 <p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
