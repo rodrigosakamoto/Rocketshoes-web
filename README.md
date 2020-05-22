@@ -1,12 +1,13 @@
 <h1 align="center">
-  <img src=".github/logo.png" alt="GoStack">
+  <img src=".github/logo.svg" alt="GoStack">
 </h1>
 
-<h2 align="center">Rocketshoes</h2>
+<h3 align="center">Rocketshoes e-commerce feito em React + Redux + Saga.</h3>
 
 
-<img src=".github/tela1.png" />
-<img src=".github/tela2.png" />
+<p align="center">
+  <img src=".github/home.png" border="0" height="300" />
+</p>
 
 ## 🔧 Tecnologias
 <p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
@@ -26,16 +27,18 @@
 
 ```bash
 # Clone o repositório
-https://github.com/rodrigosakamoto/GoStack-rocketshoes-hooks.git
+https://github.com/rodrigosakamoto/Rocketshoes-web.git
 
 # Em seguida execute:
-$ cd GoStack-rocketshoes-hooks
+$ cd Rocketshoes-web
 
 $ yarn
 
-# Para iniciar a aplicação
-$ yarn dev
-
 #Para inicar o servidor
 $ json-server server.json -p 3333
+
+# Para iniciar a aplicação
+$ yarn start
 ```
+---
+By [Rodrigo Sakamoto](https://www.linkedin.com/in/rodrigo-sakamoto/)
